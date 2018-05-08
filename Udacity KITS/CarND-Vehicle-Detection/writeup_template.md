@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image1]: ./examples/car_not_car.png
 [image2.1]: ./output_images/sample_vehicle_HOG.jpg
 [image2]: ./output_images/sample_vehicle.jpg
-[image3.1]: ./output_images/sample_non_vehicle_HOG.jpg
+[image3.1]: ./output_images/sample_non_vehicle_hog.jpg
 [image3]:  ./output_images/sample_non_vehicle.jpg
 [image4]: ./output_images/test4.jpg
 [image5]: ./output_images/test1.jpg
