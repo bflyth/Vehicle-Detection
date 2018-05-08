@@ -26,7 +26,7 @@ The goals / steps of this project are the following:
 [image5.2]: ./output_images/test5.jpg
 [image5.3]: ./output_images/test1_heatmap_thresholded.jpg
 [image5.4]: ./output_images/test1_heatmap_grayscale.jpg
-[image6]: ./ouput_images/test1.jpg
+[image6]: ./output_images/test1.jpg
 [image6.1]: ./output_images/test1_heatmap.jpg
 [image6.2]: ./output_images/test2.jpg
 [image6.3]: ./output_images/test2_heatmap.jpg
@@ -45,7 +45,7 @@ The goals / steps of this project are the following:
 [image7.4]: ./output_images/test5_heatmap_grayscale.jpg
 [image7.5]: ./output_images/test6_heatmap_grayscale.jpg
 [image8]: ./output_images/test1_processed.jpg
-[video1]: ./project_video.mp4
+[video1]: ./project_video_out_YUV.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
